@@ -3,7 +3,7 @@ import { Box } from '@material-ui/core';
 const BoxComponent = () => {
     return (
         <>
-            <Box width={500} boxShadow={10} p={3} component="">
+            <Box textAlign="center" width={500} boxShadow={10} p={3} component="">
                 <h1>Box Component is Like Div</h1>
                 <p>
                     Hey, this is Numan, a Full Stack Developer from INDIA
