@@ -21,8 +21,9 @@ const TypographyComponent = () => {
             </Typography>
 
 
-            <Typography variant="body1">
-                Hey, this is Numan, a Full Stack Developer from INDIA
+            <Typography variant="body1" display="inline">
+                <b>inline take the Content width only</b>
+                <br />
                 Hey, this is Numan, a Full Stack Developer from INDIA
                 Hey, this is Numan, a Full Stack Developer from INDIA
                 Hey, this is Numan, a Full Stack Developer from INDIA
